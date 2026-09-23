@@ -1,0 +1,11 @@
+# AWS Smart Home Multi-Agent System
+# Python 3.11+
+
+# Multi-agent framework
+strands-agents
+
+# AWS SDK
+boto3
+
+# Environment variable management
+python-dotenv
